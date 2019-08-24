@@ -28,7 +28,8 @@
         "arrowColor": "#4ea2e3"
       },
       "additionalSetColors": [
-        "#ea1d1d"
+        "#ea1d1d",
+        "#ff0000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -112,7 +113,7 @@
               "color": "#767676"
             },
             ".mbr-text B": {
-              "color": "#ea1d1d"
+              "color": "#ff0000"
             }
           },
           "_name": "features1",
