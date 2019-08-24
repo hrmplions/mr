@@ -33,7 +33,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.9.6",
     "favicon": "@PROJECT_PATH@/assets/images/lionlogo-bw-128x121.png",
     "noImageResize": "",
